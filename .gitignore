@@ -1,0 +1,3 @@
+.vagrant
+kubernetes-setup/admin.conf
+kubernetes-setup/join-command
